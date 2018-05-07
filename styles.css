@@ -1,0 +1,5 @@
+.ui.container{
+	display: block;
+    max-width: 80%!important;
+    border: 4px double black;
+}
